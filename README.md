@@ -19,11 +19,13 @@ Enter the 2nd number: 5
 15.0
 
 Contributions
+
 Contributions to the Simple Calculator program are welcome! If you find any bugs, have suggestions for improvements, or would like to contribute new features, please feel free to open an issue or submit a pull request on GitHub.
 
 License
-<<<<<<< HEAD
+
 This project is open-source and available under the MIT License. See the LICENSE file for details.
-=======
-This project is open-source and available under the MIT License. See the LICENSE file for details.
->>>>>>> 50b1b78ece61216dc5a9f87a6b313c4f192300c4
+
+Author
+
+Liliane Lukong - liliane.haniel@gmail.com
